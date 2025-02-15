@@ -12,6 +12,7 @@ import { FaUser,FaLock,FaEnvelope } from "react-icons/fa";
         const registerLink=()=>{
             setAction('active1')
            // setAction('')
+           
         }
         const loginLink=()=>{
             setAction('')
